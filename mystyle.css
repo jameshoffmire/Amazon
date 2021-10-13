@@ -1,0 +1,99 @@
+body img{
+    display:block;
+    height:31px;
+    width:103px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:80px;
+}
+
+#signinbox{
+    border:2px solid grey;
+    display: block;
+    width: 430px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:20px;
+    text-align: left;
+}
+
+#signinbox P{
+    font-size: 25px;
+}
+
+input{
+    margin-bottom: 15px;
+}
+
+button{
+    width:408px;
+    height:33px;
+    font-size: 12px;
+    background-color:grey;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#signinbox button{
+    background-color: orange;
+}
+
+#password{
+    margin-left: 190px;
+  }
+
+#main h2{
+    color: rgb(134, 134, 134);
+    font-weight: normal;
+    letter-spacing: 1px;
+    font-size: 11.5px;
+    width: 400px;
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    line-height: 0.1em;
+    margin-bottom: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:15px;
+}
+
+
+
+h2 span{
+    background:white;
+    padding-left:5x;
+}
+
+input{
+    margin-top: 5px;
+    width:400px;
+    height: 20px;
+}
+
+#footer{
+    text-align:center;
+    padding-top: 15px;
+}
+
+#navbar a{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 25px;
+    margin-bottom: 5px;
+}
+
+#main{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
+
